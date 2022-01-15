@@ -1,2 +1,2 @@
-# Text-and-Image-Steganography-
+# Text-and-Image-Steganography
 Django project on On Steganography
